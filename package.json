@@ -1,0 +1,30 @@
+{
+  "name": "beanstream",
+  "version": "0.1.0",
+  "description": "Node library for Beanstream",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "Beanstream",
+    "credit",
+    "card",
+    "payments",
+    "VISA",
+    "Mastercard",
+    "AMEX",
+    "American",
+    "Express",
+    "Digital",
+    "River",
+    "payment",
+    "processing"
+  ],
+  "author": "Daniel Hritzkiv <daniel.hritzkiv@gmail.com> (http://danielhritzkiv.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "precommit-hook": "^2.0.1"
+  }
+}
